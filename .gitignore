@@ -1,3 +1,16 @@
+Ігнорувати всі .txt файли *.txt
+
+Ігрорувати конкретний файл my-passwords.txt
+
+ Ігнорувати всі файли в певній папці
+ drafts/*
+
+Ігнорувати всі .txt файли, крім plans.txt
+*.txt
+!plans.txt
+
+
+
 secret.md
 
 # Logs
